@@ -62,4 +62,6 @@ int main(int argc, char **args){
   Matrix result;
 
   matrix_addition(&result, m, m2);
+
+  printf("Testing github connection...");
 }
